@@ -36,7 +36,7 @@
     },
     "homepage": "https://github.com/vkasraj/gql-todo#readme",
     "dependencies": {
-        "apollo-server": "^2.9.3",
+        "apollo-server": "^2.25.3",
         "bcryptjs": "^2.4.3",
         "graphql": "^14.5.7",
         "graphql-iso-date": "^3.6.1",
